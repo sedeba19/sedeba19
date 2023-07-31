@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sedeba19</h1>
 <h3 align="center">Data Scientist</h3>
-<img align="right" alt="Coding" width = "400" src="https://miro.medium.com/v2/resize:fit:640/1*ubde-Fkr9MeohJo0EuqQNQ.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*jzzsouAtjDHmmerXMAVCvg.jpeg">
+- 🔭 I’m currently working on **Any projects related towards data science**
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
